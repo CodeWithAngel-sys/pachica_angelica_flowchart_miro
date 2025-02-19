@@ -2,7 +2,7 @@ import random
 
 def cooking_simulation():
     while True:
-        name=input("What is your name/")
+        name=input("What is your name")
         print(f" hello {name}")
         print(" Welcome to the Cooking Guess Game!")
         print("You are making pancakes. Guess how they will turn out:")
